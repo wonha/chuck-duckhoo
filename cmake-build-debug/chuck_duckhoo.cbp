@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/main.cpp">
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/1000.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10950.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10951.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2557.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2558.cc">
 			<Option target="chuck_duckhoo"/>
 		</Unit>
 		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/CMakeLists.txt">

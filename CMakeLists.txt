@@ -3,4 +3,4 @@ project(chuck_duckhoo)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(chuck_duckhoo main.cpp)
+add_executable(chuck_duckhoo boj/stdin-stdout/2557.cc boj/stdin-stdout/1000.cc boj/stdin-stdout/2558.cc boj/stdin-stdout/10950.cc boj/stdin-stdout/10951.cc)

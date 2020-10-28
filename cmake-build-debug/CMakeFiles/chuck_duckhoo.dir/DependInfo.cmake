@@ -4,7 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/wonha/Documents/GitHub/chuck-duckhoo/main.cpp" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/main.cpp.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/1000.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1000.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10950.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10950.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10951.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10951.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2557.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2557.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2558.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2558.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

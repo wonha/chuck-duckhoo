@@ -1,5 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/chuck_duckhoo.dir/main.cpp.o"
+  "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1000.cc.o"
+  "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10950.cc.o"
+  "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10951.cc.o"
+  "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2557.cc.o"
+  "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2558.cc.o"
   "chuck_duckhoo"
   "chuck_duckhoo.pdb"
 )

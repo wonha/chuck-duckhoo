@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/wonha/Documents/GitHub/chuck-duckhoo/main.cpp
-iostream
+/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10950.cc
+cstdio
+-
+
+/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10951.cc
+cstdio
 -
 
