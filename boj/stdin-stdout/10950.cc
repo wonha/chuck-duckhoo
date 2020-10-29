@@ -1,9 +1,10 @@
-//
-// Created by Wonha Shin on 2020/10/28.
-//
+/**
+ * Problem link: http://boj.kr/10950
+ */
+
 #include <cstdio>
 
-int my_10950() {
+int main_10950() {
     int cnt, a, b;
     scanf("%d", &cnt);
     for (; cnt-->0;) {

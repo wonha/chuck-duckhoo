@@ -1,10 +1,10 @@
-//
-// Created by Wonha Shin on 2020/10/28.
-//
+/**
+ * Problem link: http://boj.kr/2558
+ */
 
 #include <cstdio>
 
-int my_2558() {
+int main_2558() {
     int a = 0, b = 0;
     scanf("%d %d", &a, &b);
     printf("%d", a + b);
