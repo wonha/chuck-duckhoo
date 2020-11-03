@@ -17,6 +17,12 @@ CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11022.cc.o: ../boj/stdin-stdout/11
 
 CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11718.cc.o: ../boj/stdin-stdout/11718.cc
 
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11719.cc.o: ../boj/stdin-stdout/11719.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11720.cc.o: ../boj/stdin-stdout/11720.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11721.cc.o: ../boj/stdin-stdout/11721.cc
+
 CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2557.cc.o: ../boj/stdin-stdout/2557.cc
 
 CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2558.cc.o: ../boj/stdin-stdout/2558.cc

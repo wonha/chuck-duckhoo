@@ -3,19 +3,34 @@
  */
 
 #include <cstdio>
-#include <string>
 
 
 int main_11718() {
-    std::string s = "";
-    scanf("%s", &s);
-//    for (; s.compare("") != 0; ) {
-//        printf("%s", s.);
-//    }
-
+    char s[101];
+    while (scanf("%[^\n]\n", s) == 1) {
+        printf("%s\n", s);
+    }
     return 0;
 }
 
-int main() {
-    main_11718();
+int main_11718_1() {
+    char c;
+    while ((c = getchar()) + 1)
+        putchar(c);
+    return 0;
 }
+
+int main_11718_2() {
+    char s[101];
+    while (scanf("%[^\n]\n", s) != EOF)
+        printf("%s\n", s);
+    return 0;
+}
+
+int main_11718_3() {
+    char s[101];
+    while (scanf("%[^\n]\n", s) == 1)
+        printf("%s\n", s);
+    return 0;
+}
+
