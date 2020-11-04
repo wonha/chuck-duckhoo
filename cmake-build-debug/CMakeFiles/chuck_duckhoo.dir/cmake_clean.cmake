@@ -12,6 +12,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11721.cc.o"
   "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2557.cc.o"
   "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2558.cc.o"
+  "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.o"
   "chuck_duckhoo"
   "chuck_duckhoo.pdb"
 )

@@ -27,3 +27,5 @@ CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2557.cc.o: ../boj/stdin-stdout/255
 
 CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2558.cc.o: ../boj/stdin-stdout/2558.cc
 
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.o: ../boj/stdin-stdout/2741.cpp
+

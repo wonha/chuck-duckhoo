@@ -23,6 +23,3 @@ int main_11721_1() {
     return 0;
 }
 
-int main() {
-    main_11721();
-}

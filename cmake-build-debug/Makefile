@@ -494,6 +494,33 @@ boj/stdin-stdout/2558.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2558.cc.s
 .PHONY : boj/stdin-stdout/2558.cc.s
 
+boj/stdin-stdout/2741.o: boj/stdin-stdout/2741.cpp.o
+
+.PHONY : boj/stdin-stdout/2741.o
+
+# target to build an object file
+boj/stdin-stdout/2741.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.o
+.PHONY : boj/stdin-stdout/2741.cpp.o
+
+boj/stdin-stdout/2741.i: boj/stdin-stdout/2741.cpp.i
+
+.PHONY : boj/stdin-stdout/2741.i
+
+# target to preprocess a source file
+boj/stdin-stdout/2741.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.i
+.PHONY : boj/stdin-stdout/2741.cpp.i
+
+boj/stdin-stdout/2741.s: boj/stdin-stdout/2741.cpp.s
+
+.PHONY : boj/stdin-stdout/2741.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/2741.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.s
+.PHONY : boj/stdin-stdout/2741.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -542,6 +569,9 @@ help:
 	@echo "... boj/stdin-stdout/2558.o"
 	@echo "... boj/stdin-stdout/2558.i"
 	@echo "... boj/stdin-stdout/2558.s"
+	@echo "... boj/stdin-stdout/2741.o"
+	@echo "... boj/stdin-stdout/2741.i"
+	@echo "... boj/stdin-stdout/2741.s"
 .PHONY : help
 
 
