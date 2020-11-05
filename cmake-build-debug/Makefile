@@ -170,6 +170,33 @@ boj/stdin-stdout/1000.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1000.cc.s
 .PHONY : boj/stdin-stdout/1000.cc.s
 
+boj/stdin-stdout/10818.o: boj/stdin-stdout/10818.cc.o
+
+.PHONY : boj/stdin-stdout/10818.o
+
+# target to build an object file
+boj/stdin-stdout/10818.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.o
+.PHONY : boj/stdin-stdout/10818.cc.o
+
+boj/stdin-stdout/10818.i: boj/stdin-stdout/10818.cc.i
+
+.PHONY : boj/stdin-stdout/10818.i
+
+# target to preprocess a source file
+boj/stdin-stdout/10818.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.i
+.PHONY : boj/stdin-stdout/10818.cc.i
+
+boj/stdin-stdout/10818.s: boj/stdin-stdout/10818.cc.s
+
+.PHONY : boj/stdin-stdout/10818.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/10818.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.s
+.PHONY : boj/stdin-stdout/10818.cc.s
+
 boj/stdin-stdout/10950.o: boj/stdin-stdout/10950.cc.o
 
 .PHONY : boj/stdin-stdout/10950.o
@@ -440,6 +467,168 @@ boj/stdin-stdout/11721.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11721.cc.s
 .PHONY : boj/stdin-stdout/11721.cc.s
 
+boj/stdin-stdout/1924.o: boj/stdin-stdout/1924.cc.o
+
+.PHONY : boj/stdin-stdout/1924.o
+
+# target to build an object file
+boj/stdin-stdout/1924.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.o
+.PHONY : boj/stdin-stdout/1924.cc.o
+
+boj/stdin-stdout/1924.i: boj/stdin-stdout/1924.cc.i
+
+.PHONY : boj/stdin-stdout/1924.i
+
+# target to preprocess a source file
+boj/stdin-stdout/1924.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.i
+.PHONY : boj/stdin-stdout/1924.cc.i
+
+boj/stdin-stdout/1924.s: boj/stdin-stdout/1924.cc.s
+
+.PHONY : boj/stdin-stdout/1924.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/1924.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.s
+.PHONY : boj/stdin-stdout/1924.cc.s
+
+boj/stdin-stdout/2438.o: boj/stdin-stdout/2438.cc.o
+
+.PHONY : boj/stdin-stdout/2438.o
+
+# target to build an object file
+boj/stdin-stdout/2438.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.o
+.PHONY : boj/stdin-stdout/2438.cc.o
+
+boj/stdin-stdout/2438.i: boj/stdin-stdout/2438.cc.i
+
+.PHONY : boj/stdin-stdout/2438.i
+
+# target to preprocess a source file
+boj/stdin-stdout/2438.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.i
+.PHONY : boj/stdin-stdout/2438.cc.i
+
+boj/stdin-stdout/2438.s: boj/stdin-stdout/2438.cc.s
+
+.PHONY : boj/stdin-stdout/2438.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/2438.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.s
+.PHONY : boj/stdin-stdout/2438.cc.s
+
+boj/stdin-stdout/2439.o: boj/stdin-stdout/2439.cc.o
+
+.PHONY : boj/stdin-stdout/2439.o
+
+# target to build an object file
+boj/stdin-stdout/2439.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.o
+.PHONY : boj/stdin-stdout/2439.cc.o
+
+boj/stdin-stdout/2439.i: boj/stdin-stdout/2439.cc.i
+
+.PHONY : boj/stdin-stdout/2439.i
+
+# target to preprocess a source file
+boj/stdin-stdout/2439.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.i
+.PHONY : boj/stdin-stdout/2439.cc.i
+
+boj/stdin-stdout/2439.s: boj/stdin-stdout/2439.cc.s
+
+.PHONY : boj/stdin-stdout/2439.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/2439.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.s
+.PHONY : boj/stdin-stdout/2439.cc.s
+
+boj/stdin-stdout/2440.o: boj/stdin-stdout/2440.cc.o
+
+.PHONY : boj/stdin-stdout/2440.o
+
+# target to build an object file
+boj/stdin-stdout/2440.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.o
+.PHONY : boj/stdin-stdout/2440.cc.o
+
+boj/stdin-stdout/2440.i: boj/stdin-stdout/2440.cc.i
+
+.PHONY : boj/stdin-stdout/2440.i
+
+# target to preprocess a source file
+boj/stdin-stdout/2440.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.i
+.PHONY : boj/stdin-stdout/2440.cc.i
+
+boj/stdin-stdout/2440.s: boj/stdin-stdout/2440.cc.s
+
+.PHONY : boj/stdin-stdout/2440.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/2440.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.s
+.PHONY : boj/stdin-stdout/2440.cc.s
+
+boj/stdin-stdout/2441.o: boj/stdin-stdout/2441.cc.o
+
+.PHONY : boj/stdin-stdout/2441.o
+
+# target to build an object file
+boj/stdin-stdout/2441.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.o
+.PHONY : boj/stdin-stdout/2441.cc.o
+
+boj/stdin-stdout/2441.i: boj/stdin-stdout/2441.cc.i
+
+.PHONY : boj/stdin-stdout/2441.i
+
+# target to preprocess a source file
+boj/stdin-stdout/2441.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.i
+.PHONY : boj/stdin-stdout/2441.cc.i
+
+boj/stdin-stdout/2441.s: boj/stdin-stdout/2441.cc.s
+
+.PHONY : boj/stdin-stdout/2441.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/2441.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.s
+.PHONY : boj/stdin-stdout/2441.cc.s
+
+boj/stdin-stdout/2442.o: boj/stdin-stdout/2442.cc.o
+
+.PHONY : boj/stdin-stdout/2442.o
+
+# target to build an object file
+boj/stdin-stdout/2442.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.o
+.PHONY : boj/stdin-stdout/2442.cc.o
+
+boj/stdin-stdout/2442.i: boj/stdin-stdout/2442.cc.i
+
+.PHONY : boj/stdin-stdout/2442.i
+
+# target to preprocess a source file
+boj/stdin-stdout/2442.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.i
+.PHONY : boj/stdin-stdout/2442.cc.i
+
+boj/stdin-stdout/2442.s: boj/stdin-stdout/2442.cc.s
+
+.PHONY : boj/stdin-stdout/2442.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/2442.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.s
+.PHONY : boj/stdin-stdout/2442.cc.s
+
 boj/stdin-stdout/2557.o: boj/stdin-stdout/2557.cc.o
 
 .PHONY : boj/stdin-stdout/2557.o
@@ -494,6 +683,33 @@ boj/stdin-stdout/2558.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2558.cc.s
 .PHONY : boj/stdin-stdout/2558.cc.s
 
+boj/stdin-stdout/2739.o: boj/stdin-stdout/2739.cc.o
+
+.PHONY : boj/stdin-stdout/2739.o
+
+# target to build an object file
+boj/stdin-stdout/2739.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.o
+.PHONY : boj/stdin-stdout/2739.cc.o
+
+boj/stdin-stdout/2739.i: boj/stdin-stdout/2739.cc.i
+
+.PHONY : boj/stdin-stdout/2739.i
+
+# target to preprocess a source file
+boj/stdin-stdout/2739.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.i
+.PHONY : boj/stdin-stdout/2739.cc.i
+
+boj/stdin-stdout/2739.s: boj/stdin-stdout/2739.cc.s
+
+.PHONY : boj/stdin-stdout/2739.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/2739.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.s
+.PHONY : boj/stdin-stdout/2739.cc.s
+
 boj/stdin-stdout/2741.o: boj/stdin-stdout/2741.cpp.o
 
 .PHONY : boj/stdin-stdout/2741.o
@@ -521,6 +737,60 @@ boj/stdin-stdout/2741.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.s
 .PHONY : boj/stdin-stdout/2741.cpp.s
 
+boj/stdin-stdout/2742.o: boj/stdin-stdout/2742.cc.o
+
+.PHONY : boj/stdin-stdout/2742.o
+
+# target to build an object file
+boj/stdin-stdout/2742.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.o
+.PHONY : boj/stdin-stdout/2742.cc.o
+
+boj/stdin-stdout/2742.i: boj/stdin-stdout/2742.cc.i
+
+.PHONY : boj/stdin-stdout/2742.i
+
+# target to preprocess a source file
+boj/stdin-stdout/2742.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.i
+.PHONY : boj/stdin-stdout/2742.cc.i
+
+boj/stdin-stdout/2742.s: boj/stdin-stdout/2742.cc.s
+
+.PHONY : boj/stdin-stdout/2742.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/2742.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.s
+.PHONY : boj/stdin-stdout/2742.cc.s
+
+boj/stdin-stdout/8393.o: boj/stdin-stdout/8393.cc.o
+
+.PHONY : boj/stdin-stdout/8393.o
+
+# target to build an object file
+boj/stdin-stdout/8393.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.o
+.PHONY : boj/stdin-stdout/8393.cc.o
+
+boj/stdin-stdout/8393.i: boj/stdin-stdout/8393.cc.i
+
+.PHONY : boj/stdin-stdout/8393.i
+
+# target to preprocess a source file
+boj/stdin-stdout/8393.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.i
+.PHONY : boj/stdin-stdout/8393.cc.i
+
+boj/stdin-stdout/8393.s: boj/stdin-stdout/8393.cc.s
+
+.PHONY : boj/stdin-stdout/8393.s
+
+# target to generate assembly for a file
+boj/stdin-stdout/8393.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/chuck_duckhoo.dir/build.make CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.s
+.PHONY : boj/stdin-stdout/8393.cc.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -533,6 +803,9 @@ help:
 	@echo "... boj/stdin-stdout/1000.o"
 	@echo "... boj/stdin-stdout/1000.i"
 	@echo "... boj/stdin-stdout/1000.s"
+	@echo "... boj/stdin-stdout/10818.o"
+	@echo "... boj/stdin-stdout/10818.i"
+	@echo "... boj/stdin-stdout/10818.s"
 	@echo "... boj/stdin-stdout/10950.o"
 	@echo "... boj/stdin-stdout/10950.i"
 	@echo "... boj/stdin-stdout/10950.s"
@@ -563,15 +836,42 @@ help:
 	@echo "... boj/stdin-stdout/11721.o"
 	@echo "... boj/stdin-stdout/11721.i"
 	@echo "... boj/stdin-stdout/11721.s"
+	@echo "... boj/stdin-stdout/1924.o"
+	@echo "... boj/stdin-stdout/1924.i"
+	@echo "... boj/stdin-stdout/1924.s"
+	@echo "... boj/stdin-stdout/2438.o"
+	@echo "... boj/stdin-stdout/2438.i"
+	@echo "... boj/stdin-stdout/2438.s"
+	@echo "... boj/stdin-stdout/2439.o"
+	@echo "... boj/stdin-stdout/2439.i"
+	@echo "... boj/stdin-stdout/2439.s"
+	@echo "... boj/stdin-stdout/2440.o"
+	@echo "... boj/stdin-stdout/2440.i"
+	@echo "... boj/stdin-stdout/2440.s"
+	@echo "... boj/stdin-stdout/2441.o"
+	@echo "... boj/stdin-stdout/2441.i"
+	@echo "... boj/stdin-stdout/2441.s"
+	@echo "... boj/stdin-stdout/2442.o"
+	@echo "... boj/stdin-stdout/2442.i"
+	@echo "... boj/stdin-stdout/2442.s"
 	@echo "... boj/stdin-stdout/2557.o"
 	@echo "... boj/stdin-stdout/2557.i"
 	@echo "... boj/stdin-stdout/2557.s"
 	@echo "... boj/stdin-stdout/2558.o"
 	@echo "... boj/stdin-stdout/2558.i"
 	@echo "... boj/stdin-stdout/2558.s"
+	@echo "... boj/stdin-stdout/2739.o"
+	@echo "... boj/stdin-stdout/2739.i"
+	@echo "... boj/stdin-stdout/2739.s"
 	@echo "... boj/stdin-stdout/2741.o"
 	@echo "... boj/stdin-stdout/2741.i"
 	@echo "... boj/stdin-stdout/2741.s"
+	@echo "... boj/stdin-stdout/2742.o"
+	@echo "... boj/stdin-stdout/2742.i"
+	@echo "... boj/stdin-stdout/2742.s"
+	@echo "... boj/stdin-stdout/8393.o"
+	@echo "... boj/stdin-stdout/8393.i"
+	@echo "... boj/stdin-stdout/8393.s"
 .PHONY : help
 
 

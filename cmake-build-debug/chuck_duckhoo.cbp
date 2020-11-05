@@ -83,6 +83,9 @@
 		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/1000.cc">
 			<Option target="chuck_duckhoo"/>
 		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10818.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
 		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10950.cc">
 			<Option target="chuck_duckhoo"/>
 		</Unit>
@@ -113,13 +116,40 @@
 		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/11721.cc">
 			<Option target="chuck_duckhoo"/>
 		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/1924.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2438.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2439.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2440.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2441.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2442.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
 		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2557.cc">
 			<Option target="chuck_duckhoo"/>
 		</Unit>
 		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2558.cc">
 			<Option target="chuck_duckhoo"/>
 		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2739.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
 		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2741.cpp">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2742.cc">
+			<Option target="chuck_duckhoo"/>
+		</Unit>
+		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/8393.cc">
 			<Option target="chuck_duckhoo"/>
 		</Unit>
 		<Unit filename="/Users/wonha/Documents/GitHub/chuck-duckhoo/CMakeLists.txt">

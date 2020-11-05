@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/1000.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1000.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10818.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.o"
   "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10950.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10950.cc.o"
   "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10951.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10951.cc.o"
   "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10952.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10952.cc.o"
@@ -15,9 +16,18 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/11719.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11719.cc.o"
   "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/11720.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11720.cc.o"
   "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/11721.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11721.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/1924.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2438.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2439.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2440.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2441.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2442.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.o"
   "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2557.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2557.cc.o"
   "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2558.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2558.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2739.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.o"
   "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2741.cpp" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2742.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.o"
+  "/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/8393.cc" "/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

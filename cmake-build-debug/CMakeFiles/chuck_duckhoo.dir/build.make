@@ -259,6 +259,136 @@ CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2741.cpp -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.s
 
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.o: CMakeFiles/chuck_duckhoo.dir/flags.make
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.o: ../boj/stdin-stdout/1924.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.o -c /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/1924.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/1924.cc > CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.i
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/1924.cc -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.s
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.o: CMakeFiles/chuck_duckhoo.dir/flags.make
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.o: ../boj/stdin-stdout/2438.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.o -c /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2438.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2438.cc > CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.i
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2438.cc -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.s
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.o: CMakeFiles/chuck_duckhoo.dir/flags.make
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.o: ../boj/stdin-stdout/2439.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.o -c /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2439.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2439.cc > CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.i
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2439.cc -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.s
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.o: CMakeFiles/chuck_duckhoo.dir/flags.make
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.o: ../boj/stdin-stdout/2440.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.o -c /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2440.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2440.cc > CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.i
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2440.cc -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.s
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.o: CMakeFiles/chuck_duckhoo.dir/flags.make
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.o: ../boj/stdin-stdout/2441.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.o -c /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2441.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2441.cc > CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.i
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2441.cc -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.s
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.o: CMakeFiles/chuck_duckhoo.dir/flags.make
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.o: ../boj/stdin-stdout/2442.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.o -c /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2442.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2442.cc > CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.i
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2442.cc -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.s
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.o: CMakeFiles/chuck_duckhoo.dir/flags.make
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.o: ../boj/stdin-stdout/2739.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.o -c /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2739.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2739.cc > CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.i
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2739.cc -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.s
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.o: CMakeFiles/chuck_duckhoo.dir/flags.make
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.o: ../boj/stdin-stdout/2742.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.o -c /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2742.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2742.cc > CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.i
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/2742.cc -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.s
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.o: CMakeFiles/chuck_duckhoo.dir/flags.make
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.o: ../boj/stdin-stdout/8393.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.o -c /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/8393.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/8393.cc > CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.i
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/8393.cc -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.s
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.o: CMakeFiles/chuck_duckhoo.dir/flags.make
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.o: ../boj/stdin-stdout/10818.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.o -c /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10818.cc
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10818.cc > CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.i
+
+CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/10818.cc -o CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.s
+
 # Object files for target chuck_duckhoo
 chuck_duckhoo_OBJECTS = \
 "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2557.cc.o" \
@@ -274,7 +404,17 @@ chuck_duckhoo_OBJECTS = \
 "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11719.cc.o" \
 "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11720.cc.o" \
 "CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11721.cc.o" \
-"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.o"
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.o" \
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.o" \
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.o" \
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.o" \
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.o" \
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.o" \
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.o" \
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.o" \
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.o" \
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.o" \
+"CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.o"
 
 # External object files for target chuck_duckhoo
 chuck_duckhoo_EXTERNAL_OBJECTS =
@@ -293,9 +433,19 @@ chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11719.cc.o
 chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11720.cc.o
 chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/11721.cc.o
 chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2741.cpp.o
+chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/1924.cc.o
+chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2438.cc.o
+chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2439.cc.o
+chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2440.cc.o
+chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2441.cc.o
+chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2442.cc.o
+chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2739.cc.o
+chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/2742.cc.o
+chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/8393.cc.o
+chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/boj/stdin-stdout/10818.cc.o
 chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/build.make
 chuck_duckhoo: CMakeFiles/chuck_duckhoo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable chuck_duckhoo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wonha/Documents/GitHub/chuck-duckhoo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable chuck_duckhoo"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/chuck_duckhoo.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -14,6 +14,3 @@ int main_2741() {
     return 0;
 }
 
-int main() {
-    main_2741();
-}
