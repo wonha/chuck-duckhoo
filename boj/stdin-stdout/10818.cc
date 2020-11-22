@@ -21,10 +21,7 @@ N개의 정수가 주어진다. 이때, 최솟값과 최댓값을 구하는 프�
 #include <cstdio>
 
 
-int main_10818() { // todo: Too hard
+int main_10818() { // todo: Too hard, skip this
     return 0;
 }
 
-int main() {
-    main_10818();
-}

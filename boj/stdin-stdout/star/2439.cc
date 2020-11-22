@@ -29,11 +29,11 @@ int main_2439() {
     int num;
     scanf("%d", &num);
 
-    for (int i = 1; i <= num; i++) {
-        for (int space = num ; space > i; space--) {
+    for (int line = 1; line <= num; line++) {
+        for (int space = num ; space > line; space--) {
             printf(" ");
         }
-        for (int star = 0; star < i; star++) {
+        for (int star = 0; star < line; star++) {
             printf("*");
         }
         printf("\n");

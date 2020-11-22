@@ -31,7 +31,7 @@ TUE
 
 
 int daysOfMonth[13] = {0, 13, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
-const char *daysOfWeek[7] = {"SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"}; // todo: whay const ?
+const char *daysOfWeek[7] = {"SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"}; // todo: why const ?
 
 int main_1924() {
     int month, day;

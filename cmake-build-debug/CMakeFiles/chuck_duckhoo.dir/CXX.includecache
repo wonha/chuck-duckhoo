@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/8393.cc
-cstdio
+/Users/wonha/Documents/GitHub/chuck-duckhoo/boj/stdin-stdout/sandbox/sandbox.cc
+iostream
+-
+string
 -
 
